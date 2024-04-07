@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "sperfu/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "sperfu/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "sperfu/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "sperfu/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "sperfu/#-educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "sperfu/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "sperfu/#-internships"
