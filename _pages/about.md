@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a tenure-track assistant professor in School of Automation and Engineering at Northwest A&F University, start from spring 2024. Before that, I was a tenure-track assistant professor at Xi’an Jiaotong University. I received the Ph.D. degree in Computer Science at Northwestern Polytechnical University in 2022, and received the B.E. degree in Electronic Information Engineering at Northwestern Polytechnical University in 2017.
+I am currently a tenure-track assistant professor in School of Automation and Engineering at Xi’an Jiaotong University. I received the Ph.D. degree in Automation Science and Engineering at Xi'an Jiaotong University in 2021, and received the B.E. degree in Automation Engineering at Xi'an jiaotong University in 2014.
 
-Now I am leading the Multi-modal Topological Structure Analysis (MTSA) Lab, and focus on graph machine learning, graph signal processing and multi-modal graph learning for science. The intersection between different disciplines often brings unexpected surprises, which is the biggest driving force of my research.
+Now I am co-leading the AI4Bread Lab, and focus on bioinformatics, graph machine learning, graph signal processing and multi-modal graph learning for science. The intersection between different disciplines often brings unexpected surprises, which is the biggest driving force of my research.
 
 I’m always looking for self-motivated Ph.D and Master students. If you’re interested, please feel free to contact me.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=5GT4MB4AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=5GT4MB4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
 
 
 # 🔥 News
